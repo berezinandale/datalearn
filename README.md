@@ -1,3 +1,1 @@
-# datalearn
-
-# This is a new string
+Домашнее задание модуля 1
